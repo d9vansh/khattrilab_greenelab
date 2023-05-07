@@ -7,7 +7,7 @@ Bioinformatics lab.
 
 {% include section.html %}
 
-{% include banner.html image="images/banner_kh.jpeg" %}
+{% include banner.html image="images/banner_kh2.jpg" %}
 
 {% include section.html %}
 
