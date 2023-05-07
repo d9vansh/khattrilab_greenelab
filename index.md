@@ -7,10 +7,6 @@ Bioinformatics lab.
 
 {% include section.html %}
 
-{% include banner.html image="images/banner_kh2.jpg" %}
-
-{% include section.html %}
-
 ## Khattri Lab
 
 {% capture text %}
@@ -30,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/banner_kh2.jpg"
   link="research"
   title="Publications"
   text=text
