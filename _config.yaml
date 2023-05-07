@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: d9vansh
+title: KHATTRI LAB
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Bioinformatics lab
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@d9vansh.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: d9vansh
-  twitter: d9vansh
-  youtube: d9vansh
+  email: akhattri.phe@itbhu.ac.in
+  orcid: 
+  google-scholar: FSVgYkQAAAAJ
+  github: Khattri-Lab
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
