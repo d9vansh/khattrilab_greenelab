@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Jayesh Tiwari
+image: images/jayesh.jpeg
+role: Masters student
+group: 
 links:
-  github: john-doe
+  github: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Software Engineer at Rakuten Mobile, Inc.
