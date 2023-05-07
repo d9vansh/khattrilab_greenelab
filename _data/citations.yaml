@@ -1,47 +1,38 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/diseases10040114
+  title: 'Sialyltransferases and Neuraminidases: Potential Targets for Cancer Treatment.'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+      Nag S
+      Mandal A
+      Joshi A
+      Jain N
+      Srivastava RS
+      Singh S
+      Khattri A* 
+  publisher: MDPI
+  date: '2022-01-02'
+  link: https://doi.org/10.3390/diseases10040114
+  orcid: 
+  plugin: 
+  file: 
+  
+- id: doi:10.1016/j.tranon.2022.101458
+  title: Low expression of TMPRSS2–a SARS-CoV-2 internalization protease–associates with basal subtype of head and neck squamous cell carcinoma.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
+  Jayesh Tiwari
+  Nancy Tripathi
+  Ravi Shanker Srivastava
+  Sujeet Kumar
+  Sanjay Singh
+  Shreyans Jain
+  Arun Khattri
+  publisher: Elsevier
+  date: '2022-01-01'
   link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  orcid: 
+  plugin: 
+  file: 
+  
 - id: doi:10.1186/s13059-020-02021-3
   title: Compressing gene expression data using multiple latent space dimensionalities
     learns complementary biological representations
