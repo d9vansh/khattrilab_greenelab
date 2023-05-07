@@ -7,6 +7,10 @@ Bioinformatics lab.
 
 {% include section.html %}
 
+{% include banner.html image="images/banner_kh.jpeg" %}
+
+{% include section.html %}
+
 ## Khattri Lab
 
 {% capture text %}
